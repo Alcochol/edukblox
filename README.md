@@ -1,0 +1,2 @@
+# edukblox
+Proyecto Control Escolar
