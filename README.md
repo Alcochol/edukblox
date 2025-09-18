@@ -1,4 +1,4 @@
-# edukblox
+# Edukblox
 Proyecto Control Escolar web desarrollado con **PHP**, **Bootstrap** y **DataTables**.  
 Permite gestionar alumnos, maestros, padres, calificaciones, pagos ,etc. de manera sencilla.
 
